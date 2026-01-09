@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Count from "./Component/Count";
-import Namechange from "./Component/namechange";
+import Namechange from "./Component/Namechange";
 import Product from "./Component/product";
 import ApiCall from "./Component/ApiCall";
 import ApiCalltwo from "./Component/ApiCallTwo";
